@@ -1,8 +1,7 @@
-# ChatCSV - A Streamlit Application for Generating CSV Files with OpenAI GPT-3
+# ChatCSV - A Streamlit Application for Querying CSV Files with OpenAI GPT-3
 
-![ChatCSV Logo](https://your-image-url-here.com)
 
-ChatCSV is a user-friendly web application that utilizes OpenAI's GPT-3 language model and Streamlit to generate CSV files from natural language instructions. This project simplifies the process of creating CSV data by allowing users to interact with a chatbot-like interface, providing instructions in plain English and receiving well-formatted CSV files in response.
+ChatCSV is a user-friendly web application that utilizes OpenAI's GPT-3 language model and Streamlit to query CSV files from natural language instructions. This project simplifies the process of creating CSV data by allowing users to interact with a chatbot-like interface, providing instructions in plain English and receiving well-formatted CSV files in response.
 
 ## Table of Contents
 
