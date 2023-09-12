@@ -9,9 +9,7 @@ ChatCSV is a user-friendly web application that utilizes OpenAI's GPT-3 language
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -99,10 +97,6 @@ The ChatCSV application should now be running locally and accessible in your web
 4. The chatbot will respond with a message indicating that the CSV file has been generated.
 
 5. Download the generated CSV file by clicking the provided link.
-
-## Demo
-
-[Insert link to live demo if available]
 
 ## Contributing
 
