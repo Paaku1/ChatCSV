@@ -122,8 +122,4 @@ We welcome contributions to improve ChatCSV. To contribute, follow these steps:
 
 We appreciate your contributions!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
