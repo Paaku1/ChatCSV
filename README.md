@@ -127,5 +127,3 @@ We appreciate your contributions!
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README to provide more information specific to your ChatCSV project. Include screenshots, additional features, and any other relevant details to help users understand and use your application effectively.
