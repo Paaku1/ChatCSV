@@ -19,7 +19,7 @@ ChatCSV is designed to be easy to set up and use. Follow the steps below to get 
 
 Before you can run ChatCSV, ensure you have the following prerequisites installed:
 
-- Python 3.x
+- Python 3.X
 - pip (Python package manager)
 - OpenAI API key (Sign up at [OpenAI](https://beta.openai.com/signup/) if you don't have one)
 
